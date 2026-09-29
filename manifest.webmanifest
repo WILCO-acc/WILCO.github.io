@@ -1,0 +1,16 @@
+{
+  "name": "WILCO Abnormal Ops Log",
+  "short_name": "WILCO",
+  "description": "Abnormal-ops checklist and UTC event log. Works offline; data stays on this device.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08101F",
+  "theme_color": "#08101F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
